@@ -10,7 +10,7 @@ A computer simulation of social networks and their impact on language change (Ju
 
 ## Data
 
-`mixed_run.csv` - csv file containing data about every simluation in the mixed network run
-`strong_run.csv` - csv file containing data about every simluation in the strong network run
-`weak_run.csv` - csv file containing data about every simluation in the weak network run
-`weak_fg_run.csv` - csv file containing data about every simluation in the weak network run using Fagyal exchange
+- `mixed_run.csv` - csv file containing data about every simluation in the mixed network run
+- `strong_run.csv` - csv file containing data about every simluation in the strong network run
+- `weak_run.csv` - csv file containing data about every simluation in the weak network run
+- `weak_fg_run.csv` - csv file containing data about every simluation in the weak network run using Fagyal exchange
